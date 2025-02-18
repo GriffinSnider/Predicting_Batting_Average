@@ -10,13 +10,13 @@ The dataset comes from [Sean Lahman’s Baseball Database](http://seanlahman.com
    - Look for patterns in the data to see what stats impact batting average
    - Made charts and graphs to get a better idea of trends in player performance
       - Visualizion distrubution of six batting statistics:
-       ![image](https://github.com/user-attachments/assets/42843a89-9f53-4655-9620-0a240bb27cd7)
+       ![image](https://github.com/user-attachments/assets/6410bbbe-a452-4986-bf4b-b066c3e3871d)
       - Heatmap of Batting Stats:
-       ![image](https://github.com/user-attachments/assets/350e39e8-08ea-4a12-833c-04eef57725b4)
+       ![image](https://github.com/user-attachments/assets/f230d7bb-09cb-4dca-bf85-b273dbfd28c7)
       - Batting Stats Compared to Batting Average:
-       ![image](https://github.com/user-attachments/assets/92a17480-727f-49df-afaf-1022a97c1aa9)
+       ![image](https://github.com/user-attachments/assets/db5ce619-a608-4ce1-8af5-6be96892f762)
       - Batting Average by Batting Hand & Throwing Hand:
-       ![image](https://github.com/user-attachments/assets/f9fb698e-7775-4ce7-9e40-900561687113)
+       ![image](https://github.com/user-attachments/assets/8d810bce-f9f0-4d25-b0b1-e30c3c03a75b)
 
 3. **Splitting The Data Into Training**
    - Separated the data so the model could learn from some players while being tested on others
@@ -28,13 +28,13 @@ The dataset comes from [Sean Lahman’s Baseball Database](http://seanlahman.com
 6. **Train/Tune Models**
    - K-Nearest Neighbors:
    - . 
-         -![image](https://github.com/user-attachments/assets/b013cbf8-d311-4bca-b47a-b535af4ef8e5) 
-           ![image](https://github.com/user-attachments/assets/63f354f9-0bfb-4ba1-ad07-b5dbaac480f8)
-           ![image](https://github.com/user-attachments/assets/0809da7e-8ea7-463e-a1b7-569331fce028)
+         -![image](https://github.com/user-attachments/assets/56d4cda7-3cf8-43c7-91bf-8ba5283bf107)
+           ![image](https://github.com/user-attachments/assets/588649bf-65b0-4b83-9699-16d63e241b00)
+           ![image](https://github.com/user-attachments/assets/95827d0e-ae15-44f6-82b0-4322ac4af86d)
    - Random Forest Regressor:
-           ![image](https://github.com/user-attachments/assets/99474559-7d2b-4169-8c08-f7e54d839a76)
-           ![image](https://github.com/user-attachments/assets/cd23e1f9-3c6a-4b0c-9aec-b95c281585ee)
-           ![image](https://github.com/user-attachments/assets/5a0542f0-d0e2-4f42-8936-8a05dfa702bd)
+           ![image](https://github.com/user-attachments/assets/dc7307ff-352d-44eb-b694-cd370f6daf48)
+           ![image](https://github.com/user-attachments/assets/5db3002b-573f-417a-9be9-9c2bc7291b24)
+           ![image](https://github.com/user-attachments/assets/919d441b-3cbe-4a9f-92bf-c630aa7606c5)
    - Evaluated performance using:
      - Mean squared error (MSE)
      - R2 score
